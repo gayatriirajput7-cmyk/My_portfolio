@@ -6,9 +6,9 @@
     <a href="https://gayatriirajput7-cmyk.github.io/My_portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
     </a>
-    <a href="gayatriirajput7@gmail.com">
-      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
+    <a href="mailto:gayatriirajput7@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
   </p>
 </div>
 
