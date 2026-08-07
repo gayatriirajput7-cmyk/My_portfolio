@@ -55,13 +55,14 @@ I am a specialized Web Developer bridging the gap between modern front-end archi
 
 ---
 
+
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayatriirajput7-cmyk&show_icons=true&theme=radical&hide_border=true" alt="Gayatri's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatriirajput7-cmyk&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gayatriirajput7-cmyk&show_icons=true&theme=radical&hide_border=true&v=1" alt="Gayatri's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatriirajput7-cmyk&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
 </div>
-
 <br>
 <p align="center">
   <i>Let's build something amazing together!</i>
